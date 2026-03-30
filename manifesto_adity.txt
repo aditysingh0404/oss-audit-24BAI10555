@@ -1,0 +1,1 @@
+On 30 March 2026, I reflect on open-source tools like git. To me, 'independence' is essential in coding. I would love to build and share my projects freely with the community.
