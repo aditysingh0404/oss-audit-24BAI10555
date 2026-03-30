@@ -19,8 +19,22 @@
 
   ## Screenshots
 
-  ### Script 
----
+  ### Script 1 :
+  ![script1](screenshots/script1.png)
+
+   ### script 2 :
+   ![script2](screenshots/script2.png)
+
+   ### script 3 :
+   ![script3](screenshots/script3.png)
+      
+   ### script 4 :
+   ![script4](screenshots/script4.png)
+
+   ### script 5 :
+   ![script5](screenshots/script5.png)
+  
+    
 
 ## 📂 Project Contents
 
