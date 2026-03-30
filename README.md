@@ -8,10 +8,18 @@
 
 ---
 
-## 💻 Chosen Software
+## Instructions
+   Run scripts in order:
 
-**Git** — A distributed version control system created by Linus Torvalds to manage and track changes in source code efficiently.
+  ./script1_system_identity.sh
+  ./script2_packge_inspector.sh
+  ./script3_disk_audit.sh
+  ./script4_log_analyzer.sh <logfile>
+  ./script5_manifesto.sh
 
+  ## Screenshots
+
+  ### Script 
 ---
 
 ## 📂 Project Contents
